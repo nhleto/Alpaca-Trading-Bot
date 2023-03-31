@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alpaca.Console", "Alpaca.Console\Alpaca.Console.csproj", "{0DF6881C-67F5-4261-9B65-D7301205B65E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alpaca.Client", "Alpaca.Client\Alpaca.Client.csproj", "{3CF23F20-FAD5-40EF-9D33-854128A10D32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Candlesticks.Models", "Candlesticks.Models\Candlesticks.Models.csproj", "{866428D4-9CD3-49CA-B467-F5685A376A17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DF6881C-67F5-4261-9B65-D7301205B65E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DF6881C-67F5-4261-9B65-D7301205B65E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DF6881C-67F5-4261-9B65-D7301205B65E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DF6881C-67F5-4261-9B65-D7301205B65E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF23F20-FAD5-40EF-9D33-854128A10D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF23F20-FAD5-40EF-9D33-854128A10D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF23F20-FAD5-40EF-9D33-854128A10D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF23F20-FAD5-40EF-9D33-854128A10D32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{866428D4-9CD3-49CA-B467-F5685A376A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{866428D4-9CD3-49CA-B467-F5685A376A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{866428D4-9CD3-49CA-B467-F5685A376A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{866428D4-9CD3-49CA-B467-F5685A376A17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
