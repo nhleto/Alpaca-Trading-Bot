@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alpaca.Console", "Alpaca.Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alpaca.Client", "Alpaca.Client\Alpaca.Client.csproj", "{3CF23F20-FAD5-40EF-9D33-854128A10D32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Candlesticks.Models", "Candlesticks.Models\Candlesticks.Models.csproj", "{866428D4-9CD3-49CA-B467-F5685A376A17}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Candlesticks.Models", "Candlesticks.Models\Candlesticks.Models.csproj", "{49B40535-3712-4106-9F95-E51F5D60678E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,9 +26,9 @@ Global
 		{3CF23F20-FAD5-40EF-9D33-854128A10D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CF23F20-FAD5-40EF-9D33-854128A10D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CF23F20-FAD5-40EF-9D33-854128A10D32}.Release|Any CPU.Build.0 = Release|Any CPU
-		{866428D4-9CD3-49CA-B467-F5685A376A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{866428D4-9CD3-49CA-B467-F5685A376A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{866428D4-9CD3-49CA-B467-F5685A376A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{866428D4-9CD3-49CA-B467-F5685A376A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49B40535-3712-4106-9F95-E51F5D60678E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B40535-3712-4106-9F95-E51F5D60678E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B40535-3712-4106-9F95-E51F5D60678E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B40535-3712-4106-9F95-E51F5D60678E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

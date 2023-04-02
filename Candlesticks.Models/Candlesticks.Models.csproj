@@ -1,9 +1,42 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
+  <ItemGroup>
+    <Content Include="obj\Candlesticks.Models.csproj.nuget.dgspec.json" />
+    <Content Include="obj\Candlesticks.Models.csproj.nuget.g.props" />
+    <Content Include="obj\Candlesticks.Models.csproj.nuget.g.targets" />
+    <Content Include="obj\Debug\net6.0\Candlesticks.Models.AssemblyInfoInputs.cache" />
+    <Content Include="obj\Debug\net6.0\Candlesticks.Models.assets.cache" />
+    <Content Include="obj\Debug\net6.0\Candlesticks.Models.csproj.AssemblyReference.cache" />
+    <Content Include="obj\Debug\net6.0\Candlesticks.Models.csproj.CoreCompileInputs.cache" />
+    <Content Include="obj\Debug\net6.0\Candlesticks.Models.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\net6.0\Candlesticks.Models.dll" />
+    <Content Include="obj\Debug\net6.0\Candlesticks.Models.GeneratedMSBuildEditorConfig.editorconfig" />
+    <Content Include="obj\Debug\net6.0\Candlesticks.Models.pdb" />
+    <Content Include="obj\Debug\net6.0\refint\Candlesticks.Models.dll" />
+    <Content Include="obj\Debug\net6.0\ref\Candlesticks.Models.dll" />
+    <Content Include="obj\Debug\net7.0\Candlesticks.Models.AssemblyInfoInputs.cache" />
+    <Content Include="obj\Debug\net7.0\Candlesticks.Models.assets.cache" />
+    <Content Include="obj\Debug\net7.0\Candlesticks.Models.csproj.AssemblyReference.cache" />
+    <Content Include="obj\Debug\net7.0\Candlesticks.Models.GeneratedMSBuildEditorConfig.editorconfig" />
+    <Content Include="obj\project.assets.json" />
+    <Content Include="obj\project.nuget.cache" />
+    <Content Include="obj\project.packagespec.json" />
+    <Content Include="obj\rider.project.restore.info" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net6.0\Candlesticks.Models.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net6.0\Candlesticks.Models.GlobalUsings.g.cs" />
+    <Compile Include="obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net7.0\Candlesticks.Models.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net7.0\Candlesticks.Models.GlobalUsings.g.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\Debug\net7.0\ref" />
+    <Folder Include="obj\Debug\net7.0\refint" />
+  </ItemGroup>
 </Project>
